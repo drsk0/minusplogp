@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>~ signal from the noise ~ - quote</title>
+	<subtitle>signal from the noise</subtitle>
+	<link href="https://drsk0.github.io/minusplogp/tags/quote/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://drsk0.github.io/minusplogp"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-21T15:59:42+00:00</updated>
+	<id>https://drsk0.github.io/minusplogp/tags/quote/atom.xml</id>
+	<entry xml:lang="en">
+		<title>We are drowning in information while starving for wisdom.</title>
+		<published>2022-12-21T15:59:42+00:00</published>
+		<updated>2022-12-21T15:59:42+00:00</updated>
+		<link rel="alternate" href="https://drsk0.github.io/minusplogp/edward-o-wilson/" type="text/html"/>
+		<id>https://drsk0.github.io/minusplogp/edward-o-wilson/</id>
+		<content type="html">&lt;p&gt;By Edward O. Wilson&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

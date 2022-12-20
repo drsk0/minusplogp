@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://drsk0.github.io/minusplogp/sitemap.xml
