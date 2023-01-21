@@ -9,6 +9,5 @@ tags = ["quote"]
 
 [extra]
 author = "drsk"
+subtitle = "Edward O. Wilson"
 +++
-
-By Edward O. Wilson
